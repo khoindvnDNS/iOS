@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>khoindvn.bio.link</string>
+				<string>khoindvn.bio.link.app</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
